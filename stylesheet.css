@@ -62,7 +62,7 @@ body {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(Lara-bg.png) no-repeat center center/cover;
+    background: url("Lara-bg.png") no-repeat center center/cover;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -858,4 +858,5 @@ body {
         transform: translateY(0px);
         opacity: 1;
     }
+
 }
